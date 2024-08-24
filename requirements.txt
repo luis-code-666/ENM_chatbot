@@ -1,0 +1,9 @@
+numpy
+python-telegram-bot
+nltk
+keras
+tensorflow
+keras
+watchdog
+
+
